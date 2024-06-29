@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.821299fb.css",
+    "main.js": "/static/js/main.b07112ac.js",
+    "static/media/perfume_2.png": "/static/media/perfume_2.ff28e8cb278807c3c540.png",
+    "static/media/perfume_1.png": "/static/media/perfume_1.9641324925ec4673d022.png",
+    "static/media/perfume.png": "/static/media/perfume.252c7f465620fdaa1bf6.png",
+    "index.html": "/index.html",
+    "main.821299fb.css.map": "/static/css/main.821299fb.css.map",
+    "main.b07112ac.js.map": "/static/js/main.b07112ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.821299fb.css",
+    "static/js/main.b07112ac.js"
+  ]
+}
